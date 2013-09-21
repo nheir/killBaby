@@ -1,11 +1,11 @@
 killBaby
 ==========
 
-KillBaby prevents hostile baby to spawn
+KillBaby makes zombie/pigzombie babies become adult on spawn
 
 ### TODO
 
-Working plugin
+Some cool stuff
 
 ### Source
 
